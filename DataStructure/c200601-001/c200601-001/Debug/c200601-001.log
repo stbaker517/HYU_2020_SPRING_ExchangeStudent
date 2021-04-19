@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\ikbs4\source\repos\c200601-001\c200601-001\소스.c(137,9): warning C4033: 'Deletemaxheap'은(는) 값을 반환해야 합니다.
+C:\Users\ikbs4\source\repos\c200601-001\c200601-001\소스.c(163,9): warning C4033: 'Deleteminheap'은(는) 값을 반환해야 합니다.
+C:\Users\ikbs4\source\repos\c200601-001\c200601-001\소스.c(156): warning C4715: 'Deletemaxheap': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ikbs4\source\repos\c200601-001\c200601-001\소스.c(182): warning C4715: 'Deleteminheap': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  c200601-001.vcxproj -> C:\Users\ikbs4\source\repos\c200601-001\Debug\c200601-001.exe

@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\ikbs4\source\repos\c200505_AST_001\c200505_AST_001\소스.c(49,10): warning C4101: 'TargetNode' :참조되지 않은 지역 변수입니다.
+  c200505_AST_001.vcxproj -> C:\Users\ikbs4\source\repos\c200505_AST_001\Debug\c200505_AST_001.exe

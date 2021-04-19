@@ -1,0 +1,110 @@
+﻿  source.c
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(7,17): error C2061: 구문 오류: 식별자 'DATATYPE'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(7,17): error C2059: 구문 오류: ';'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(15,2): error C2061: 구문 오류: 식별자 'DATATYPE'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(17,1): error C2059: 구문 오류: '}'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(21,2): error C2061: 구문 오류: 식별자 'Node'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(22,6): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(23,6): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(25,23): error C2146: 구문 오류: ')'이(가) 'data1' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(25,23): error C2061: 구문 오류: 식별자 'data1'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(25,23): error C2059: 구문 오류: ';'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(25,28): error C2059: 구문 오류: ','
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(25,44): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(26,1): error C2059: 구문 오류: '}'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(28,25): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(28,25): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(28,31): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(29,23): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(29,23): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(29,40): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(29,44): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(30,27): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(30,27): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(30,44): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(30,48): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(31,27): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(31,27): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(31,44): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(31,48): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(33,23): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(33,23): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(33,39): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(33,45): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(33,41): error C2040: 'data': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(34,23): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(34,23): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(34,39): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(34,45): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(34,41): error C2040: 'data': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(36,10): error C2061: 구문 오류: 식별자 'Remove'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(36,10): error C2059: 구문 오류: ';'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(36,27): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(36,27): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(36,33): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(37,24): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(37,24): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(37,30): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(39,28): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(39,28): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(39,39): error C2059: 구문 오류: '형식'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(41,29): error C2146: 구문 오류: ')'이(가) 'data1' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(41,29): error C2061: 구문 오류: 식별자 'data1'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(41,29): error C2059: 구문 오류: ';'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(41,34): error C2059: 구문 오류: ','
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(41,50): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(45,13): error C2065: 'Linkedlist': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(45,13): error C2146: 구문 오류: ';'이(가) 'list' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(48,10): warning C4013: 'InitList'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(50,17): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(50,29): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(53,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(53,8): error C2223: '->ID' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(54,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(54,8): error C2223: '->Name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(55,8): warning C4013: 'Insert'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(55,20): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(56,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(56,8): error C2223: '->ID' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(57,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(57,8): error C2223: '->Name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(58,20): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(59,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(59,8): error C2223: '->ID' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(60,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(60,8): error C2223: '->Name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(61,20): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(62,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(62,8): error C2223: '->ID' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(63,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(63,8): error C2223: '->Name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(64,20): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(65,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(65,8): error C2223: '->ID' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(66,6): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(66,8): error C2223: '->Name' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(67,20): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(69,11): error C2065: 'temp': 선언되지 않은 식별자입니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(69,11): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(77,38): warning C4013: 'RetCount'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(79,13): warning C4013: 'PosHead'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(84,17): warning C4013: 'PosNext'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(98,10): warning C4013: 'Remove'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(131,29): error C2146: 구문 오류: ')'이(가) 'data1' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(131,29): error C2061: 구문 오류: 식별자 'data1'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(131,29): error C2059: 구문 오류: ';'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(131,34): error C2059: 구문 오류: ','
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(131,50): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(143,25): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(143,25): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(143,31): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(144,1): error C2054: 'list' 다음에 '('가 필요합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(151,23): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(151,23): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(151,40): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(151,44): error C2059: 구문 오류: ')'
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(152,1): error C2054: 'data' 다음에 '('가 필요합니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(163,27): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(163,27): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(163,44): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ikbs4\source\repos\c200407-Linked-002\c200407-Linked-002\source.c(163,44): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.

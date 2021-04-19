@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\ikbs4\source\repos\LinkedList-c200413\LinkedList-c200413\소스.c(46,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\ikbs4\source\repos\LinkedList-c200413\LinkedList-c200413\소스.c(244): warning C4716: 'postfix': 값을 반환해야 합니다.
+  LinkedList-c200413.vcxproj -> C:\Users\ikbs4\source\repos\LinkedList-c200413\Debug\LinkedList-c200413.exe
